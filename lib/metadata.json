@@ -1,0 +1,778 @@
+{
+  "vaultName": "Universe",
+  "lastExport": 1732185790446,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Metabuilding/Notes & Drafts/Documents in The Foundation.md",
+    "Metabuilding/Notes & Drafts/FoundationNET AI-Generated Notes.md",
+    "Metabuilding/Notes & Drafts/Handbook Outline Samples (AI Gen).md",
+    "Metabuilding/Notes & Drafts/Rank Order, Role Eligibility, Clearance Levels and Information Classifications.md",
+    "Metabuilding/Disclaimer.md",
+    "Metabuilding/Hierarchy.canvas",
+    "The Foundation/Library & Archives/Documents & Forms/Foundation Form for Employment/Foundation Form for Employment.md",
+    "The Foundation/Library & Archives/Documents & Forms/Foundation Form for Employment/Medical Treatment Consent Form.md",
+    "The Foundation/Library & Archives/Documents & Forms/Personal Radio Request Form.md",
+    "The Foundation/Library & Archives/Documents & Forms/Untitled.md",
+    "The Foundation/Library & Archives/Handbooks, Guides, & References/Anomaly Classification System.md",
+    "The Foundation/Library & Archives/Handbooks, Guides, & References/Untitled.md",
+    "The Foundation/Library & Archives/Missions, Stories, Interviews, & More/Mobile Task Force Mission Archive/Untitled.md",
+    "The Foundation/Library & Archives/Missions, Stories, Interviews, & More/Untitled.md",
+    "The Foundation/Library & Archives/Policy & Procedures/Anomaly Testing Policy.md",
+    "The Foundation/Library & Archives/Policy & Procedures/Contextual Amnestics Policy.md",
+    "The Foundation/Library & Archives/Policy & Procedures/Emergency Contingency Protocols.md",
+    "The Foundation/Library & Archives/Policy & Procedures/FoundationNET Policy.md",
+    "The Foundation/Library & Archives/Policy & Procedures/Information Security Policy.md",
+    "The Foundation/Library & Archives/Policy & Procedures/Radio Usage Procedure.md",
+    "The Foundation/Library & Archives/Policy & Procedures/The Secure Contain Protect Procedure.md",
+    "The Foundation/Library & Archives/Policy & Procedures/Untitled.md",
+    "The Foundation/Library & Archives/SCP Files/SCP-EU/SCP-EU-001.md",
+    "The Foundation/Library & Archives/SCP Files/SCP-NG/SCP-NG-002.md",
+    "The Foundation/Library & Archives/SCP Files/SCP-RE/Untitled.md",
+    "The Foundation/Library & Archives/SCP Files/SCP File Database.md",
+    "The Foundation/Library & Archives/Visuals, Posters, & Propaganda/Untitled.md",
+    "The Foundation/Library & Archives/The Foundation Library & Archives.md",
+    "The Foundation/Locations & Sites/Site & Outpost Database/Untitled.md",
+    "The Foundation/Locations & Sites/Foundation Infrastructure.md",
+    "The Foundation/Objects, Things, & Stuff/Foundation Inventory/Personnel Identity & Access Card.md",
+    "The Foundation/Objects, Things, & Stuff/Foundation Inventory/Standard Issue Radio.md",
+    "The Foundation/Objects, Things, & Stuff/Foundation Objects, Things, and Stuff™️.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 0 - Blind Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 0-D - Disposable Class Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 0-E - Expunged Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 1 - Need-to-Know Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 2 - Informed Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 3 - Classified Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 4 - Restricted Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 5 - Redacted Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Disposable Class/Disposable Class Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Disposable Class/Expunged Class Personnel.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Mobile Task Forces/Untitled.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Business & Finance Department.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Engineering & Technical Department.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Ethics Committee.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Foundation Integration Department.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Internal Affairs Department.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Medical Department.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/O5 Council.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Research & Development Department.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Scientific Department.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Security Department.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/The Mobile Task Forces.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 1 - Internal Clearance.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 2 - Secret Clearance.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 3 - Classified Clearance.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 4 - Restricted Clearance.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 5 - Redacted Clearance.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-1 \"The Watcher\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-2 \"Knight\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-3 \"The Curious Cat\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-4 \"Yin-yang\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-5 \"Healing Hands\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-6 \"Shining Armor\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-7 \"Toolbox\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-8 \"The Prodigy\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-9 \"The Nosy One\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-10 \"Intuitiveness\".md",
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/The Administrator.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/Role Eligibility & Clearance Levels.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/The Departments of The Foundation.md",
+    "The Foundation/Structure, Clearance, and Hierarchy/The People of The Foundation.md",
+    "The Foundation/The Foundation.md",
+    "The SCP-Next-Generation Universe.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Metabuilding/Notes & Drafts/Documents in The Foundation.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 8789,
+      "exportedPath": "metabuilding/notes-&-drafts/documents-in-the-foundation.html",
+      "dependencies": []
+    },
+    "Metabuilding/Notes & Drafts/FoundationNET AI-Generated Notes.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 8010,
+      "exportedPath": "metabuilding/notes-&-drafts/foundationnet-ai-generated-notes.html",
+      "dependencies": []
+    },
+    "Metabuilding/Notes & Drafts/Handbook Outline Samples (AI Gen).md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 4943,
+      "exportedPath": "metabuilding/notes-&-drafts/handbook-outline-samples-(ai-gen).html",
+      "dependencies": []
+    },
+    "Metabuilding/Notes & Drafts/Rank Order, Role Eligibility, Clearance Levels and Information Classifications.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 2632,
+      "exportedPath": "metabuilding/notes-&-drafts/rank-order,-role-eligibility,-clearance-levels-and-information-classifications.html",
+      "dependencies": []
+    },
+    "Metabuilding/Disclaimer.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 16,
+      "exportedPath": "metabuilding/disclaimer.html",
+      "dependencies": []
+    },
+    "Metabuilding/Hierarchy.canvas": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 7921,
+      "exportedPath": "metabuilding/hierarchy.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Documents & Forms/Foundation Form for Employment/Foundation Form for Employment.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 68,
+      "exportedPath": "the-foundation/library-&-archives/documents-&-forms/foundation-form-for-employment/foundation-form-for-employment.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Documents & Forms/Foundation Form for Employment/Medical Treatment Consent Form.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 67,
+      "exportedPath": "the-foundation/library-&-archives/documents-&-forms/foundation-form-for-employment/medical-treatment-consent-form.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Documents & Forms/Personal Radio Request Form.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 64,
+      "exportedPath": "the-foundation/library-&-archives/documents-&-forms/personal-radio-request-form.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Documents & Forms/Untitled.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 0,
+      "exportedPath": "the-foundation/library-&-archives/documents-&-forms/untitled.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Handbooks, Guides, & References/Anomaly Classification System.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 164,
+      "exportedPath": "the-foundation/library-&-archives/handbooks,-guides,-&-references/anomaly-classification-system.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Handbooks, Guides, & References/Untitled.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 0,
+      "exportedPath": "the-foundation/library-&-archives/handbooks,-guides,-&-references/untitled.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Missions, Stories, Interviews, & More/Mobile Task Force Mission Archive/Untitled.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 0,
+      "exportedPath": "the-foundation/library-&-archives/missions,-stories,-interviews,-&-more/mobile-task-force-mission-archive/untitled.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Missions, Stories, Interviews, & More/Untitled.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 0,
+      "exportedPath": "the-foundation/library-&-archives/missions,-stories,-interviews,-&-more/untitled.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Policy & Procedures/Anomaly Testing Policy.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 59,
+      "exportedPath": "the-foundation/library-&-archives/policy-&-procedures/anomaly-testing-policy.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Policy & Procedures/Contextual Amnestics Policy.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 3993,
+      "exportedPath": "the-foundation/library-&-archives/policy-&-procedures/contextual-amnestics-policy.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Policy & Procedures/Emergency Contingency Protocols.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 69,
+      "exportedPath": "the-foundation/library-&-archives/policy-&-procedures/emergency-contingency-protocols.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Policy & Procedures/FoundationNET Policy.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 587,
+      "exportedPath": "the-foundation/library-&-archives/policy-&-procedures/foundationnet-policy.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Policy & Procedures/Information Security Policy.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 64,
+      "exportedPath": "the-foundation/library-&-archives/policy-&-procedures/information-security-policy.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Policy & Procedures/Radio Usage Procedure.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 4827,
+      "exportedPath": "the-foundation/library-&-archives/policy-&-procedures/radio-usage-procedure.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Policy & Procedures/The Secure Contain Protect Procedure.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 69,
+      "exportedPath": "the-foundation/library-&-archives/policy-&-procedures/the-secure-contain-protect-procedure.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Policy & Procedures/Untitled.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 0,
+      "exportedPath": "the-foundation/library-&-archives/policy-&-procedures/untitled.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/SCP Files/SCP-EU/SCP-EU-001.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 0,
+      "exportedPath": "the-foundation/library-&-archives/scp-files/scp-eu/scp-eu-001.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/SCP Files/SCP-NG/SCP-NG-002.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 901,
+      "exportedPath": "the-foundation/library-&-archives/scp-files/scp-ng/scp-ng-002.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/SCP Files/SCP-RE/Untitled.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 0,
+      "exportedPath": "the-foundation/library-&-archives/scp-files/scp-re/untitled.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/SCP Files/SCP File Database.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 1509,
+      "exportedPath": "the-foundation/library-&-archives/scp-files/scp-file-database.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/Visuals, Posters, & Propaganda/Untitled.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 0,
+      "exportedPath": "the-foundation/library-&-archives/visuals,-posters,-&-propaganda/untitled.html",
+      "dependencies": []
+    },
+    "The Foundation/Library & Archives/The Foundation Library & Archives.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 85,
+      "exportedPath": "the-foundation/library-&-archives/the-foundation-library-&-archives.html",
+      "dependencies": []
+    },
+    "The Foundation/Locations & Sites/Site & Outpost Database/Untitled.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 42,
+      "exportedPath": "the-foundation/locations-&-sites/site-&-outpost-database/untitled.html",
+      "dependencies": []
+    },
+    "The Foundation/Locations & Sites/Foundation Infrastructure.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 81,
+      "exportedPath": "the-foundation/locations-&-sites/foundation-infrastructure.html",
+      "dependencies": []
+    },
+    "The Foundation/Objects, Things, & Stuff/Foundation Inventory/Personnel Identity & Access Card.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 460,
+      "exportedPath": "the-foundation/objects,-things,-&-stuff/foundation-inventory/personnel-identity-&-access-card.html",
+      "dependencies": []
+    },
+    "The Foundation/Objects, Things, & Stuff/Foundation Inventory/Standard Issue Radio.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 645,
+      "exportedPath": "the-foundation/objects,-things,-&-stuff/foundation-inventory/standard-issue-radio.html",
+      "dependencies": []
+    },
+    "The Foundation/Objects, Things, & Stuff/Foundation Objects, Things, and Stuff™️.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 76,
+      "exportedPath": "the-foundation/objects,-things,-&-stuff/foundation-objects,-things,-and-stuff™️.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 0 - Blind Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 87,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-0-blind-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 0-D - Disposable Class Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 100,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-0-d-disposable-class-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 0-E - Expunged Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 92,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-0-e-expunged-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 1 - Need-to-Know Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 94,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-1-need-to-know-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 2 - Informed Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 90,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-2-informed-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 3 - Classified Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 92,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-3-classified-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 4 - Restricted Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 92,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-4-restricted-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 5 - Redacted Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 90,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-5-redacted-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Disposable Class/Disposable Class Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 159,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/disposable-class/disposable-class-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Disposable Class/Expunged Class Personnel.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 157,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/disposable-class/expunged-class-personnel.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Mobile Task Forces/Untitled.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 0,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/mobile-task-forces/untitled.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Business & Finance Department.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 151,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/business-&-finance-department.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Engineering & Technical Department.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 156,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/engineering-&-technical-department.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Ethics Committee.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 149,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/ethics-committee.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Foundation Integration Department.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 166,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/foundation-integration-department.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Internal Affairs Department.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 605,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/internal-affairs-department.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Medical Department.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 151,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/medical-department.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/O5 Council.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 2064,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/o5-council.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Research & Development Department.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 166,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/research-&-development-department.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Scientific Department.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 154,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/scientific-department.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/Security Department.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 152,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/security-department.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Departments & Divisions/The Mobile Task Forces.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 452,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/departments-&-divisions/the-mobile-task-forces.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 1 - Internal Clearance.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 104,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-1-internal-clearance.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 2 - Secret Clearance.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 102,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-2-secret-clearance.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 3 - Classified Clearance.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 106,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-3-classified-clearance.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 4 - Restricted Clearance.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 106,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-4-restricted-clearance.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 5 - Redacted Clearance.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 104,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-5-redacted-clearance.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-1 \"The Watcher\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 94,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-1-\"the-watcher\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-2 \"Knight\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 89,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-2-\"knight\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-3 \"The Curious Cat\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 98,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-3-\"the-curious-cat\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-4 \"Yin-yang\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 91,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-4-\"yin-yang\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-5 \"Healing Hands\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 96,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-5-\"healing-hands\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-6 \"Shining Armor\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 96,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-6-\"shining-armor\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-7 \"Toolbox\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 90,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-7-\"toolbox\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-8 \"The Prodigy\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 94,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-8-\"the-prodigy\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-9 \"The Nosy One\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 95,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-9-\"the-nosy-one\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-10 \"Intuitiveness\".md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 97,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-10-\"intuitiveness\".html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/The Administrator.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 470,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/the-administrator.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/Role Eligibility & Clearance Levels.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 241,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/role-eligibility-&-clearance-levels.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/The Departments of The Foundation.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 549,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/the-departments-of-the-foundation.html",
+      "dependencies": []
+    },
+    "The Foundation/Structure, Clearance, and Hierarchy/The People of The Foundation.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 409,
+      "exportedPath": "the-foundation/structure,-clearance,-and-hierarchy/the-people-of-the-foundation.html",
+      "dependencies": []
+    },
+    "The Foundation/The Foundation.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 8759,
+      "exportedPath": "the-foundation/the-foundation.html",
+      "dependencies": []
+    },
+    "The SCP-Next-Generation Universe.md": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 2632,
+      "exportedPath": "the-scp-next-generation-universe.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 74825,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 10643,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 131118,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1732185790446,
+      "sourceSize": 133043,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}

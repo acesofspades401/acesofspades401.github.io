@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Universe]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Universe</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 21 Nov 2024 10:43:15 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 21 Nov 2024 10:43:10 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Documents in The Foundation]]></title><description><![CDATA[ 
+ <br>]]></description><link>metabuilding/notes-&amp;-drafts/documents-in-the-foundation.html</link><guid isPermaLink="false">Metabuilding/Notes &amp; Drafts/Documents in The Foundation.md</guid><pubDate>Wed, 16 Oct 2024 13:38:04 GMT</pubDate></item><item><title><![CDATA[FoundationNET AI-Generated Notes]]></title><description><![CDATA[ 
+ <br>The SCP Foundation, known for its secrecy and handling of anomalous phenomena, would likely design its private internet, or intranet, with an emphasis on security, redundancy, and compartmentalization to ensure that its global network of Foundation sites is isolated from public systems. Here's how the SCP Foundation might approach integrating a private internet across its sites:<br><br>
+<br>Isolated from the Public Internet: The Foundation's network would be entirely isolated from the public internet to prevent any risk of data leaks, cyber-attacks, or external surveillance. Each site would only connect to the intranet via secure, private channels.
+<br>High-bandwidth Fiber Optic Backbone: The network would rely on a dedicated fiber optic backbone for high-speed, encrypted communications between sites. This infrastructure might use private satellite systems for remote locations (e.g., Area-51 type desert sites or oceanic installations).
+<br>Multiple Layers of Redundancy: To protect against physical damage or localized failures, the network would have multiple layers of redundancy, including alternate communication routes (e.g., satellite, dedicated microwave towers, or secure, underground cables) between key Foundation locations.
+<br><br>
+<br>Strict Network Segmentation: The Foundation would segment its network into different layers based on clearance levels (e.g., Site Personnel, Mobile Task Forces, Researchers, and O5 Council). Each segment would have its own internal restrictions, preventing lower-clearance personnel from accessing sensitive or classified data.
+<br>Site-specific Firewalls: Every Foundation site would have its own set of highly secure firewalls, with data only being accessible on a need-to-know basis, even within the Foundation. The idea is that a breach at one site doesn't compromise others.
+<br>Compartmentalized Data Storage: Each site would store only the necessary data for its operations. Centralized, critical data (e.g., O5-level information) would be mirrored across multiple high-security locations with physical and digital protections in place.
+<br><br>
+<br>End-to-End Encryption: All communication between Foundation sites would be encrypted using quantum-resistant algorithms to ensure that no data can be intercepted or decrypted by external actors.
+<br>Dynamic Encryption Algorithms: The Foundation would utilize self-changing encryption keys to protect against attempts to break the encryption. These keys would change regularly (e.g., every few seconds) to prevent anyone from gaining prolonged access.
+<br>Multi-factor Authentication (MFA): Access to the intranet and its resources would require multi-factor authentication, potentially integrating biometric scans (e.g., retina, DNA, or brainwave patterns) along with traditional methods like passwords or physical tokens.
+<br><br>
+<br>Automated Monitoring Systems (AI-Driven): Advanced AI systems would constantly monitor network traffic for any anomalies, such as unauthorized access attempts, data exfiltration, or unusual communication patterns. The AI could also predict possible cyber-attacks based on historical data.
+<br>Intrusion Detection Systems (IDS): Each site would have an IDS in place to detect any unauthorized access attempts or hacking efforts. Once detected, these systems could activate immediate lockdown protocols to sever any suspicious communications or data transmissions.
+<br>Internal Auditing and Logging: All network activity would be logged for auditing purposes. These logs would be encrypted and stored in multiple secure locations, preventing tampering or unauthorized access. A special task force (e.g., a Mobile Task Force focused on digital security) might be assigned to investigate any irregularities.
+<br><br>
+<br>Foundation-only Secure Messaging Systems: A private, secure messaging system would be in place for Foundation personnel, including encrypted emails, voice calls, and video conferencing that run entirely over the internal network.
+<br>Air-gapped Backup Systems: Sensitive information might be backed up to systems that are physically disconnected (air-gapped) from any network. These backups could only be accessed manually in secure facilities, making it virtually impossible for outside attackers to breach these systems remotely.
+<br><br>
+<br>Anomaly-based Security: The SCP Foundation might use its own SCPs or anomalous technology to further secure the intranet. For example, SCPs capable of controlling electromagnetic waves could be used to cloak or disrupt unauthorized access attempts, while others might act as guardians, monitoring data in ways conventional systems cannot.
+<br>Memetic Hazards and Infohazards: Certain high-level security features might involve the use of memetic or infohazardous defenses, where unauthorized access to specific data triggers mind-affecting phenomena that neutralize or disorient the intruder.
+<br><br>
+<br>Localized Servers with Autonomous Operations: Each site would be able to operate autonomously in case of a connection loss to the main network. Critical systems would continue functioning even in isolated states, reducing reliance on centralized data flows.
+<br>Data Purge Protocols: In case of a site breach, data purge protocols would be automatically activated, wiping sensitive information or transferring it to a secure off-site backup before it falls into enemy hands.
+<br><br>
+<br>Adaptive Networking for Mobile Sites: The Foundation’s intranet would likely be designed to support mobile and hidden sites, such as temporary research outposts or Mobile Task Force headquarters. These would securely connect to the intranet when deployed, using encrypted, temporary connections like secure VPNs or encrypted satellite uplinks.
+<br>Containment of Digital Anomalies: Digital anomalies or SCPs that can exist in or affect digital networks would have specialized containment systems within the intranet. These would be closed networks isolated from the main systems but would allow for the study and containment of these anomalies without risking exposure to the rest of the Foundation's data.
+<br><br>
+<br>Network-wide Lockdowns: In the event of a major breach, a complete lockdown of the intranet could be triggered remotely by high-level personnel, cutting off all communication between sites to contain the threat. During this time, individual sites would continue to operate using localized intranets.
+<br>Failsafe Devices: Each Foundation site might have a failsafe device capable of destroying sensitive hardware in the event of an extreme emergency, ensuring that no critical information falls into the wrong hands.
+<br><br>
+<br>Specialized Research and Communication Channels: Given the multi-disciplinary nature of the Foundation, different departments (e.g., medical, research, security) would have their own dedicated channels on the intranet for collaboration. These channels would be carefully monitored and encrypted to ensure information doesn't cross into unauthorized areas.
+<br>Automated Software Patching and Updates: The Foundation would likely employ a system that automatically patches and updates its software and network protocols to protect against emerging threats without requiring downtime.
+<br>By employing these advanced and multi-layered approaches, the SCP Foundation would create a highly secure, resilient, and efficient private internet capable of supporting its global operations while keeping its secrets from both internal and external threats.]]></description><link>metabuilding/notes-&amp;-drafts/foundationnet-ai-generated-notes.html</link><guid isPermaLink="false">Metabuilding/Notes &amp; Drafts/FoundationNET AI-Generated Notes.md</guid><pubDate>Thu, 10 Oct 2024 19:18:07 GMT</pubDate></item><item><title><![CDATA[Example 1]]></title><description><![CDATA[ 
+ <br><br>I. Introduction<br>
+<br>Purpose and scope of the handbook
+<br>Overview of the SCP Foundation's mission and objectives
+<br>Confidentiality and non-disclosure agreements<br>
+II. Organization Structure
+<br>Foundation hierarchy and chain of command
+<br>Departmental overview (e.g., Research, Security, Logistics)
+<br>Key personnel and contact information<br>
+III. Security Protocols
+<br>Clearance levels and access restrictions
+<br>Secure communication procedures (e.g., encrypted channels, need-to-know basis)
+<br>Emergency response procedures (e.g., containment breaches, site lockdowns)<br>
+IV. SCP Handling and Containment
+<br>Procedures for interacting with and handling SCP objects
+<br>Containment protocols and standard operating procedures (SOPs)
+<br>Safety precautions and personal protective equipment (PPE)<br>
+V. Research and Experimentation
+<br>Guidelines for conducting experiments on SCP objects
+<br>Approval processes for research proposals
+<br>Collaboration with other Foundation departments and external organizations<br>
+VI. Personnel Conduct and Responsibilities
+<br>Code of conduct and professional standards
+<br>Confidentiality and information security
+<br>Reporting requirements (e.g., incident reports, anomalies)<br>
+VII. Training and Development
+<br>Mandatory training programs (e.g., SCP handling, emergency response)
+<br>Continuing education and professional development opportunities
+<br>Mentorship programs<br>
+VIII. Benefits and Support
+<br>Compensation and benefits packages
+<br>Mental health resources and support services
+<br>Employee assistance programs (e.g., counseling, stress management)<br>
+IX. Disciplinary Actions and Termination
+<br>Procedures for addressing misconduct and policy violations
+<br>Disciplinary actions and penalties
+<br>Termination procedures and post-employment obligations<br>
+X. Appendices
+<br>Glossary of Foundation terminology
+<br>List of essential documents and resources (e.g., SCP classification guide, emergency contact information)
+<br>Map of Foundation facilities and sites
+<br><br>
+<br>Security Protocols and Safety Measures  
+
+<br>Overview of security clearances  
+<br>Accessing classified information  
+<br>Emergency response protocols  
+
+<br>Containment breaches  
+<br>Lockdowns and evacuations  
+<br>Site-specific emergency procedures  
+
+
+<br>Health and safety protocols  
+
+<br>Protective equipment  
+<br>Hazardous materials handling  
+<br>Medical monitoring and wellness checks  
+
+
+<br>Psychological evaluation and support programs  
+
+
+<br>Containment Procedures  
+
+<br>Definition and purpose of containment  
+<br>Secure, Contain, Protect (SCP) - What this means in practice  
+<br>Containment cell protocols  
+
+<br>Routine inspections and maintenance  
+<br>Reporting containment failures  
+
+
+<br>Interaction with anomalies  
+
+<br>Approved personnel and access restrictions  
+<br>Anomaly research procedures  
+<br>Ethics and handling of sentient SCPs  
+
+
+
+
+<br>Research and Development  
+
+<br>Research divisions and their purposes  
+<br>Safe and ethical testing practices  
+<br>Innovation and containment upgrades  
+<br>Collaboration between departments  
+
+
+<br>Field Operations  
+
+<br>Mobile Task Forces (MTF) overview  
+<br>Field agent protocols  
+
+<br>Infiltration and investigation procedures  
+<br>Retrieval of anomalies  
+<br>Neutralizing or securing hostile anomalies  
+
+
+<br>Risk and debriefing after field missions  
+<br>Emergency containment and neutralization efforts  
+
+
+<br>Personnel Management and Conduct  
+
+<br>Employee code of conduct  
+<br>Disciplinary actions and procedures  
+<br>Harassment and workplace behavior policy  
+<br>Performance reviews and promotion criteria  
+<br>Reporting concerns, misconduct, or unethical behavior  
+
+
+<br>Ethics and Compliance  
+
+<br>Role of the Ethics Committee  
+<br>Ethical guidelines for research, containment, and interaction  
+<br>Compliance with local and international laws  
+<br>Handling moral dilemmas  
+
+
+<br>Employee Benefits and Resources  
+
+<br>Compensation and insurance  
+<br>Retirement and pensions  
+<br>Leave policies: vacation, sick leave, and mental health days  
+<br>On-site amenities and support services  
+<br>Housing and recreation  
+<br>Cafeteria and nutrition  
+<br>Employee assistance programs (EAPs)  
+<br>Educational and professional development opportunities  
+
+
+<br>End of Employment Protocols  
+
+<br>Voluntary resignation procedures  
+<br>Retirement processes  
+<br>Involuntary termination  
+<br>Amnestic administration upon leaving  
+<br>Security clearance revocation and confidentiality obligations  
+
+
+<br>Appendices and Additional Resources  
+
+<br>Glossary of terms and acronyms  
+<br>List of common SCP classifications  
+<br>Useful contacts (HR, Ethics Committee, Security, etc.)  
+<br>Further reading: Foundation research papers, internal reports
+
+
+]]></description><link>metabuilding/notes-&amp;-drafts/handbook-outline-samples-(ai-gen).html</link><guid isPermaLink="false">Metabuilding/Notes &amp; Drafts/Handbook Outline Samples (AI Gen).md</guid><pubDate>Fri, 04 Oct 2024 22:30:35 GMT</pubDate></item><item><title><![CDATA[Rank Order, Role Eligibility, Clearance Levels and Information Classifications]]></title><description><![CDATA[ 
+ <br><br>Clearance levels and information classifications are two of the many ways the foundation maintains operational security in an outside of Foundation sites. They ensure that the right people have access to the right information at the right times. For example, a janitorial staff member would have the clearance level "0", which is the lowest level, granting him minimal access to locations within a facility, and this clearance comes with an information clearance of "Internal", which means he would have access to any information rated as "Internal". <br><br>
+<br>Class D - Disposable personnel - No access to any zones. Must be escorted throughout entire facility. No information clearance granted at this "level". Sanitization procedure required monthly.
+<br>Level 0 - Blind Personnel - Access to most non-containment areas. Navigating in containment areas requires prior approval and escort. Grants "Internal" information clearance - (Must complete orientation module)
+
+<br>Janitorial Staff
+<br>Food services
+<br>General office staff/assistants (B&amp;F) (Eligible for "Secret" information clearance on case/case basis)
+
+
+<br>Level 1 - Need-to-know basis personnel - Access to non-containment areas and LS containment zones (NOT containment chambers without prior approval and escort). Grants "Internal" information clearance. Eligible to receive "Secret" information clearance via membership to division or group - (Must complete information privacy module &amp; department specific module)
+
+<br>Medical staff
+<br>Engineering &amp; Technical
+<br>Scientific staff
+
+
+<br>Level 2 - Informed personnel - Access to non-containment areas and LS, MS containment zones. Grants "Secret" information clearance. Eligible to receive "Classified" information clearance via division or group ranking alongside giving escorts - (Must complete history module)
+
+<br>Foundation Integration
+<br>Security Department
+<br>Ethics Committee
+<br>Research &amp; Development
+<br>Mobile Task Force(s)
+
+
+<br>Level 3 - Secret personnel - Access to non-containment areas, LS, MS, HS containment zones, and select restricted access zones. Grants "Classified" information clearance. Eligible to receive "Restricted" information clearance for select information. Can increase/decrease personnel clearance levels from zero through two with prior written approval from department head and/or site administration.
+
+<br>Internal Affairs/Human Resources
+
+
+<br>Level 4 - Classified personnel - 
+
+<br>Department administrators
+
+
+<br>Level 5 - Restricted personnel - Eligible for Omni (full (select sites) site) access. 
+
+<br>Foundation &amp; site administration
+<br>Site director
+
+
+]]></description><link>metabuilding/notes-&amp;-drafts/rank-order,-role-eligibility,-clearance-levels-and-information-classifications.html</link><guid isPermaLink="false">Metabuilding/Notes &amp; Drafts/Rank Order, Role Eligibility, Clearance Levels and Information Classifications.md</guid><pubDate>Mon, 14 Oct 2024 10:12:03 GMT</pubDate></item><item><title><![CDATA[What happened?]]></title><description><![CDATA[ 
+ <br>]]></description><link>metabuilding/disclaimer.html</link><guid isPermaLink="false">Metabuilding/Disclaimer.md</guid><pubDate>Sun, 06 Oct 2024 22:32:28 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // Foundation Form for Employment]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/library-&amp;-archives/documents-&amp;-forms/foundation-form-for-employment/foundation-form-for-employment.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Documents &amp; Forms/Foundation Form for Employment/Foundation Form for Employment.md</guid><pubDate>Thu, 10 Oct 2024 10:21:06 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // Medical Treatment Consent Form]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/library-&amp;-archives/documents-&amp;-forms/foundation-form-for-employment/medical-treatment-consent-form.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Documents &amp; Forms/Foundation Form for Employment/Medical Treatment Consent Form.md</guid><pubDate>Wed, 09 Oct 2024 22:27:50 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // Personal Radio Request Form]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/library-&amp;-archives/documents-&amp;-forms/personal-radio-request-form.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Documents &amp; Forms/Personal Radio Request Form.md</guid><pubDate>Wed, 09 Oct 2024 22:29:08 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>the-foundation/library-&amp;-archives/documents-&amp;-forms/untitled.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Documents &amp; Forms/Untitled.md</guid><pubDate>Sun, 06 Oct 2024 22:32:28 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // The Anomaly Classification System]]></title><description><![CDATA[ 
+ <br><br><br><br>The ACS is a short and simple way to get an overview on a specific anomaly.]]></description><link>the-foundation/library-&amp;-archives/handbooks,-guides,-&amp;-references/anomaly-classification-system.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Handbooks, Guides, &amp; References/Anomaly Classification System.md</guid><pubDate>Wed, 16 Oct 2024 13:51:51 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>the-foundation/library-&amp;-archives/handbooks,-guides,-&amp;-references/untitled.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Handbooks, Guides, &amp; References/Untitled.md</guid><pubDate>Sun, 06 Oct 2024 22:32:28 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>the-foundation/library-&amp;-archives/missions,-stories,-interviews,-&amp;-more/mobile-task-force-mission-archive/untitled.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Missions, Stories, Interviews, &amp; More/Mobile Task Force Mission Archive/Untitled.md</guid><pubDate>Sun, 06 Oct 2024 22:32:28 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>the-foundation/library-&amp;-archives/missions,-stories,-interviews,-&amp;-more/untitled.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Missions, Stories, Interviews, &amp; More/Untitled.md</guid><pubDate>Sun, 06 Oct 2024 22:32:28 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // Anomaly Testing Policy]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/library-&amp;-archives/policy-&amp;-procedures/anomaly-testing-policy.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Policy &amp; Procedures/Anomaly Testing Policy.md</guid><pubDate>Wed, 09 Oct 2024 22:13:05 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // Contextual Amnestics Policy]]></title><description><![CDATA[ 
+ <br><br><br><br>Believe it or not, you've most likely read this before (hence the vague déjà-vu)! This is The Foundation's policy on Contextual Amnestics and the therapy that is typically associated with it. This can be a little disorienting, and that is completely normal. This is why we believe that the most accepted approach to the recent exposure to amnestics is to deliver this policy in a friendly way each and every time. Typically, the amnestics exposure video is shown in place of this text, but in cases where the video is unavailable, this is what is showed. Now, outward and onward to the policy at hand.<br><br>To get an idea of what amnestics, let alone contextual amnestics, is, we must first dive into the ship-in-a-bottle that is the human mind. A vast and expansive place, the human mind houses the seat of consciousness with its subsequent areas of memory and cognition. As you may have guessed, your work anywhere, let alone here, requires a functioning memory. We mean, think about it, without a memory, you wouldn't be able to remember how to walk, or add numbers, or even exist! Memory is but one facet of the conscious experience and a necessary evil that The Foundation must address. <br><br>Memory is something complex, and but a yin of the yin-yang of consciousness. We, in the past, have had to wipe out entire chunks of memory in the process of delivering amnestics, but this is not the reality we face today. This is why you may feel a gap in between your conscious experience and memory. You may feel a fuzziness where a memory we have deemed too critical once was. You may poke and prod at it all you want, but there is simply fresh neural growth there, and it will soon be reassigned as a new memory. Don't be alarmed though, as the procedure was painless, and the procedure has been done countless times on employees just like you! For obvious reasons, you are not permitted to know the process in which we address the "deletion" of memories, but do know that the memories are safe with us!<br><br>The Foundation employs the use of amnestics to maintain the S.C.P. triad and more importantly, to maintain your own status quo. You most likely saw something you were not meant to see, such as a confusing object, or a devious individual, and the fact you saw whatever it was you saw warranted the alteration of your memories. It is in your best interest that we did as exposure to such things can cause, and is not limited to:<br>
+<br>PTSD
+<br>Anxiety
+<br>Paranoia
+<br>High blood pressure
+<br>Heart attack
+<br>Stroke
+<br>Irreversible brain damage
+<br>Irreversible bodily harm
+<br>Death
+<br>Administering amnestics ensures that the exposure to something you were not meant to be exposed to does not affect your current or future work here at The Foundation.<br><br>During your exposure to the amnestics, you underwent what is known as Contextual Amnestics Therapy, or CAT for short. CAT is the catalyst which allows us to precisely pick what memories are altered. Think of it like an eye dropping of paint compared to our old method of pouring the whole bucket of paint over the memory. But your feeling woozy, uneasy, and possibly annoyed, and like we understood before, this is normal! Your local site's medical department has the solution to these discomforts. A specialized blend of cognitive pain relievers that will alleviate anxiety and stress. We will taper you off after 2 days, and you will adhere to the dosage schedule as you've agreed to in your <a data-href="Medical Treatment Consent Form" href="the-foundation/library-&amp;-archives/documents-&amp;-forms/foundation-form-for-employment/medical-treatment-consent-form.html" class="internal-link" target="_self" rel="noopener nofollow">Medical Treatment Consent Form</a>.<br><br>If you still have questions, you can refer to your sites human resources agent who will answer to the best of their ability any questions you may have. In addition, feel free to reach out to your site's therapeutic liaison. ]]></description><link>the-foundation/library-&amp;-archives/policy-&amp;-procedures/contextual-amnestics-policy.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Policy &amp; Procedures/Contextual Amnestics Policy.md</guid><pubDate>Wed, 20 Nov 2024 02:07:33 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // Emergency Contingency Procedures]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/library-&amp;-archives/policy-&amp;-procedures/emergency-contingency-protocols.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Policy &amp; Procedures/Emergency Contingency Protocols.md</guid><pubDate>Wed, 09 Oct 2024 23:01:28 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // FoundationNET Policy]]></title><description><![CDATA[ 
+ <br><br><br><br>The FoundationNET private internet is a solution that has been in the works for many years. Starting alongside the birth of the mainstream internet, The Foundation was quick to adopt some of the ideas that were laid out in the original ARPANET project. The Foundation was reliant on old methods of communication, and having a strong network backbone was essential for the foundation to progress. Using protocols and procedures found in the TOR network, The FoundationNET was conceived. <br>]]></description><link>the-foundation/library-&amp;-archives/policy-&amp;-procedures/foundationnet-policy.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Policy &amp; Procedures/FoundationNET Policy.md</guid><pubDate>Thu, 10 Oct 2024 19:16:21 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // Information Security Policy]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/library-&amp;-archives/policy-&amp;-procedures/information-security-policy.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Policy &amp; Procedures/Information Security Policy.md</guid><pubDate>Wed, 09 Oct 2024 22:45:26 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // Radio Usage Procedure]]></title><description><![CDATA[ 
+ <br><br><br><br>The standard issue radio for Foundation personnel is the APX NEXT All-Band P25 [smart] Radio, modified to meet the Foundation's strict security standards on data transmission through digital means. It offers multiple features such as a touch display, analog transmission buttons &amp; channel dial, built in BLE+WiFi, and it is capable of broadcasting personnel status to a central server. General usage is straightforward. The unit is comprised of a digital touch screen and analog buttons for transmission, which means usage is streamlined and accessible for a variety of use cases. <br>General setup instructions are as follows:<br>
+<br>Provision and register for a radio. (This is done by filing a <a data-href="Personal Radio Request Form" href="the-foundation/library-&amp;-archives/documents-&amp;-forms/personal-radio-request-form.html" class="internal-link" target="_self" rel="noopener nofollow">Personal Radio Request Form</a> through the <a data-href="Engineering &amp; Technical Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/engineering-&amp;-technical-department.html" class="internal-link" target="_self" rel="noopener nofollow">Engineering &amp; Technical Department</a>)
+<br>Receive and turn on your radio, ensuring it has been properly configured
+
+<br>Set your status and location as needed
+
+
+<br>Dial the analog knob to your desired channel and press it in to register that channel. Press it in twice to unregister the channel. You can register up to 3 channels, and you will hear broadcasts from those three channels. 
+<br>Press the side button in once to transmit. Press it in three times to send a notification ping to other radios on the same channel.
+<br>Press and hold the side button for 10 seconds, or alternatively, press and hold the side button, then tap the on-screen indicator three times to send out a distress ping to all radios regardless of channel (this will transmit your name and location).
+<br>Note
+For specific radio configuration, refer to your department head, division head, or otherwise primary point of contact for your assignment. 
+<br><br>The following radio codes apply to the following departments, alongside the channel they operate on. They are used when communicating inter and intra departmentally. Each channel is accessible as determined by your department membership. This is defined when you first register for your radio.<br>
+<br>Security Department (Ch. 01)
+<br>Mobile Task Forces (all except Alpha-1 (Uses restricted Ch. 99)) (Ch. 02)
+<br>Scientific Department (Ch. 03)
+<br>Engineering &amp; Technical (Ch. 04)
+<br>Misc. Staff (janitorial branch of E&amp;T) (Ch. 05)
+<br>Ch. 0 is used for site-wide communications (default channel when no channel is selected)
+<br>Note
+Channel 99 is not only restricted to Alpha 1, but it requires a passcode every time you register the channel. The passcode is changed in accordance to the credential rotation and recycling policy as stated in the <a data-href="Information Security Policy" href="the-foundation/library-&amp;-archives/policy-&amp;-procedures/information-security-policy.html" class="internal-link" target="_self" rel="noopener nofollow">Information Security Policy</a>
+<br>]]></description><link>the-foundation/library-&amp;-archives/policy-&amp;-procedures/radio-usage-procedure.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Policy &amp; Procedures/Radio Usage Procedure.md</guid><pubDate>Wed, 09 Oct 2024 23:06:41 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // Secure Contain Protect Procedure]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/library-&amp;-archives/policy-&amp;-procedures/the-secure-contain-protect-procedure.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Policy &amp; Procedures/The Secure Contain Protect Procedure.md</guid><pubDate>Wed, 09 Oct 2024 22:12:27 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>the-foundation/library-&amp;-archives/policy-&amp;-procedures/untitled.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Policy &amp; Procedures/Untitled.md</guid><pubDate>Mon, 07 Oct 2024 09:44:41 GMT</pubDate></item><item><title><![CDATA[SCP-EU-001]]></title><description><![CDATA[ 
+ ]]></description><link>the-foundation/library-&amp;-archives/scp-files/scp-eu/scp-eu-001.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/SCP Files/SCP-EU/SCP-EU-001.md</guid><pubDate>Sun, 06 Oct 2024 22:32:28 GMT</pubDate></item><item><title><![CDATA[Foundation Document Viewer // SCP File]]></title><description><![CDATA[ 
+ <br><br><br>
+Anomaly Identification:SCP-NG-002
+Clearance Level:0 - Public Information
+
+
+Containment Class: neutralized
+
+
+Secondary Class: None
+
+
+
+Disruption Class: 0/none
+
+
+Risk Class: 0/none
+
+
+# Description
+## Historical Context
+# Specialized Containment Procedures
+# Appendices]]></description><link>the-foundation/library-&amp;-archives/scp-files/scp-ng/scp-ng-002.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/SCP Files/SCP-NG/SCP-NG-002.md</guid><pubDate>Wed, 16 Oct 2024 13:56:12 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>the-foundation/library-&amp;-archives/scp-files/scp-re/untitled.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/SCP Files/SCP-RE/Untitled.md</guid><pubDate>Sun, 06 Oct 2024 22:32:28 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // SCP Database]]></title><description><![CDATA[ 
+ <br><br><br><br>While the entries may feel confusing, and the terminology a bit esoteric, understanding the format of these database entries are simple. Lets break it down starting from the top, with the Anomaly Classification System. <br>The ACS in detail is broken down <a data-tooltip-position="top" aria-label="Anomaly Classification System" data-href="Anomaly Classification System" href="the-foundation/library-&amp;-archives/handbooks,-guides,-&amp;-references/anomaly-classification-system.html" class="internal-link" target="_self" rel="noopener nofollow">here</a>, but the simple components are as follows, rendered in a print-friendly format on the document:<br>
+<br>The anomaly identification (SCP-XX-XXX)
+<br>The anomalies clearance level
+<br>The anomalies containment class and secondary containment class if applicable
+<br>The anomalies disruption class
+<br>Next in an SCP file is a short description of the anomaly and its effects.<br>
+In addition to this, a brief history of the anomaly is given, such as its first encounter, and other relevant historical context. <br>Then, the anomalies specialized containment procedures are described in detail. This includes its physical containment requirements, and any additional requirements for its containment environment. <br>Finally, any relevant appendices are listed in this order:<br>
+<br>Testing policy appendix
+<br>Testing report(s) appendi(-x,-ces)
+<br>Initial encounter report appendix
+<br>Incident report(s) appendi(-x, -ces)
+<br>Additional appendices not already listed
+<br><br>]]></description><link>the-foundation/library-&amp;-archives/scp-files/scp-file-database.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/SCP Files/SCP File Database.md</guid><pubDate>Wed, 16 Oct 2024 14:01:17 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>the-foundation/library-&amp;-archives/visuals,-posters,-&amp;-propaganda/untitled.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/Visuals, Posters, &amp; Propaganda/Untitled.md</guid><pubDate>Sun, 06 Oct 2024 22:32:28 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // The Foundation Library &amp; Archives]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/library-&amp;-archives/the-foundation-library-&amp;-archives.html</link><guid isPermaLink="false">The Foundation/Library &amp; Archives/The Foundation Library &amp; Archives.md</guid><pubDate>Sun, 13 Oct 2024 18:51:45 GMT</pubDate></item><item><title><![CDATA[Foundation Site Entry // FS-X-XX-XX]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/locations-&amp;-sites/site-&amp;-outpost-database/untitled.html</link><guid isPermaLink="false">The Foundation/Locations &amp; Sites/Site &amp; Outpost Database/Untitled.md</guid><pubDate>Wed, 09 Oct 2024 00:23:03 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // The Foundation Infrastructure]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/locations-&amp;-sites/foundation-infrastructure.html</link><guid isPermaLink="false">The Foundation/Locations &amp; Sites/Foundation Infrastructure.md</guid><pubDate>Sun, 13 Oct 2024 18:52:38 GMT</pubDate></item><item><title><![CDATA[Item Inventory // Personnel Identity &amp; Access Card]]></title><description><![CDATA[ 
+ <br><br><br><br>The Personnel Identity &amp; Access Card is the gateway to access and authentication within The Foundation and its Sites. It acts not only as a form of identity, but it ties a Foundation employee to an IAM entity. This enables the card to be used at Foundation sites for physical access restrictions and allowances, network authentication, and even as a way to pay within Foundation sites.]]></description><link>the-foundation/objects,-things,-&amp;-stuff/foundation-inventory/personnel-identity-&amp;-access-card.html</link><guid isPermaLink="false">The Foundation/Objects, Things, &amp; Stuff/Foundation Inventory/Personnel Identity &amp; Access Card.md</guid><pubDate>Wed, 09 Oct 2024 16:14:10 GMT</pubDate></item><item><title><![CDATA[Item Inventory // Standard Issue Radio]]></title><description><![CDATA[ 
+ <br><br><br><br>The standard issue radio for Foundation personnel is the APX NEXT All-Band P25 [smart] Radio, modified to meet the Foundation's strict security standards on data transmission through digital means. It offers multiple features such as a touch display, analog transmission buttons &amp; channel dial, built in BLE+WiFi, and it is capable of broadcasting personnel status to a central server. General usage is straightforward. The unit is comprised of a digital touch screen and analog buttons for transmission, which means usage is streamlined and accessible for a variety of use cases. ]]></description><link>the-foundation/objects,-things,-&amp;-stuff/foundation-inventory/standard-issue-radio.html</link><guid isPermaLink="false">The Foundation/Objects, Things, &amp; Stuff/Foundation Inventory/Standard Issue Radio.md</guid><pubDate>Sun, 13 Oct 2024 18:53:02 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // The Foundation Inventory]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/objects,-things,-&amp;-stuff/foundation-objects,-things,-and-stuff™️.html</link><guid isPermaLink="false">The Foundation/Objects, Things, &amp; Stuff/Foundation Objects, Things, and Stuff™️.md</guid><pubDate>Sun, 13 Oct 2024 18:52:43 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Clearance Level 0 - Blind Personnel]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-0-blind-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 0 - Blind Personnel.md</guid><pubDate>Sun, 13 Oct 2024 18:55:03 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Clearance Level 0-D - Disposable Class Personnel]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-0-d-disposable-class-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 0-D - Disposable Class Personnel.md</guid><pubDate>Mon, 14 Oct 2024 10:02:53 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Clearance Level 0-E - Expunged Personnel]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-0-e-expunged-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 0-E - Expunged Personnel.md</guid><pubDate>Mon, 14 Oct 2024 10:02:54 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Clearance Level 1 - Neet-to-know Personnel]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-1-need-to-know-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 1 - Need-to-Know Personnel.md</guid><pubDate>Mon, 14 Oct 2024 10:02:57 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Clearance Level 2 - Informed Personnel]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-2-informed-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 2 - Informed Personnel.md</guid><pubDate>Mon, 14 Oct 2024 10:11:28 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Clearance Level 3 - Classified Personnel]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-3-classified-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 3 - Classified Personnel.md</guid><pubDate>Mon, 14 Oct 2024 10:07:22 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Clearance Level 4 - Restricted Personnel]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-4-restricted-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 4 - Restricted Personnel.md</guid><pubDate>Mon, 14 Oct 2024 10:11:34 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Clearance Level 5 - Redacted Personnel]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/clearance-levels/level-5-redacted-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Clearance Levels/Level 5 - Redacted Personnel.md</guid><pubDate>Mon, 14 Oct 2024 10:11:41 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Disposable Class Personnel]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/disposable-class/disposable-class-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Disposable Class/Disposable Class Personnel.md</guid><pubDate>Wed, 20 Nov 2024 18:26:14 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Expunged Class Personnel]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/disposable-class/expunged-class-personnel.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Disposable Class/Expunged Class Personnel.md</guid><pubDate>Wed, 20 Nov 2024 18:26:11 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/mobile-task-forces/untitled.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Mobile Task Forces/Untitled.md</guid><pubDate>Sat, 12 Oct 2024 00:22:19 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Business &amp; Finance]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/business-&amp;-finance-department.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Business &amp; Finance Department.md</guid><pubDate>Wed, 20 Nov 2024 11:00:18 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Engineering &amp; Technical]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/engineering-&amp;-technical-department.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Engineering &amp; Technical Department.md</guid><pubDate>Wed, 20 Nov 2024 11:00:16 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Ethics Committee]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/ethics-committee.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Ethics Committee.md</guid><pubDate>Wed, 20 Nov 2024 11:00:14 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Foundation Integration Department]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/foundation-integration-department.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Foundation Integration Department.md</guid><pubDate>Wed, 20 Nov 2024 11:00:12 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Internal Affairs Department]]></title><description><![CDATA[ 
+ <br><br><br><br>The Internal Affairs department is the department that focuses on the internal workings of The Foundation. It's goal is to ensure that the policies and procedures laid out by the <a data-href="Ethics Committee" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/ethics-committee.html" class="internal-link" target="_self" rel="noopener nofollow">Ethics Committee</a> are being practiced as stated, and that no person deviates from them. They also handle any internal matters such as non-compliant, rogue, or otherwise personnel that pose a risk to The Foundation's <a data-tooltip-position="top" aria-label="The Foundation > The S.C.P. triad" data-href="The Foundation#The S.C.P. triad" href="the-foundation/the-foundation.html#The_S.C.P._triad" class="internal-link" target="_self" rel="noopener nofollow">S.C.P. triad</a>.<br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/internal-affairs-department.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Internal Affairs Department.md</guid><pubDate>Wed, 20 Nov 2024 11:00:08 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Medical Department]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/medical-department.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Medical Department.md</guid><pubDate>Wed, 20 Nov 2024 10:59:57 GMT</pubDate></item><item><title><![CDATA[Department Dossier // O5 Council]]></title><description><![CDATA[ 
+ <br><br><br><br>The O5 council is the board of directors for the foundation, which means that it oversees the direction and strategies for The Foundation. Each council-member directs one or more of the Foundations departments, and the assignment of a council-member to a department is typically self made. The O5 council meets regularly to discuss internal matters and happenings regarding The Foundation, its operations, and its sites. Any votes cast out by one of the members must be agreed upon unanimously, with any non-unanimous vote being left for <a data-href="The Administrator" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/the-administrator.html" class="internal-link" target="_self" rel="noopener nofollow">The Administrator</a>. <br><br><br>The O5 council is organized such that each council-member gets a say in The Foundations direction. This is done either directly, by influencing the department(s) that they lead, or indirectly through proposing changes that would affect Foundation Sites, other departments, or Foundation operations.<br>The council is made up of ten councilmen, formatted by the nomenclature, O5-X, where X is their designation. The order of the numbers does not necessarily define importance or status within the council. Instead it defines the chronological history of each member, with O5-1 being the longest standing member, and O5-10 being the newest member.<br>Each council-member controls a different department within The Foundation. In brief, the breakdown of who is in charge of what is described below:<br>
+<br><a data-href="Internal Affairs Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/internal-affairs-department.html" class="internal-link" target="_self" rel="noopener nofollow">Internal Affairs Department</a> (<a data-href="O5-1 &quot;The Watcher&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-1-&quot;the-watcher&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-1 "The Watcher"</a>)
+<br><a data-href="The Mobile Task Forces" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/the-mobile-task-forces.html" class="internal-link" target="_self" rel="noopener nofollow">The Mobile Task Forces</a> (<a data-href="O5-2 &quot;Knight&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-2-&quot;knight&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-2 "Knight"</a>)
+<br><a data-href="Scientific Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/scientific-department.html" class="internal-link" target="_self" rel="noopener nofollow">Scientific Department</a> (<a data-tooltip-position="top" aria-label="O5-3 &quot;The Curious Cat&quot;" data-href="O5-3 &quot;The Curious Cat&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-3-&quot;the-curious-cat&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-3 "The Curious Cat"</a>)
+<br><a data-href="Ethics Committee" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/ethics-committee.html" class="internal-link" target="_self" rel="noopener nofollow">Ethics Committee</a> (<a data-href="O5-4 &quot;Yin-yang&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-4-&quot;yin-yang&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-4 "Yin-yang"</a>)
+<br><a data-href="Medical Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/medical-department.html" class="internal-link" target="_self" rel="noopener nofollow">Medical Department</a> (<a data-href="O5-5 &quot;Healing Hands&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-5-&quot;healing-hands&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-5 "Healing Hands"</a>)
+<br><a data-href="Security Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/security-department.html" class="internal-link" target="_self" rel="noopener nofollow">Security Department</a> (<a data-href="O5-6 &quot;Shining Armor&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-6-&quot;shining-armor&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-6 "Shining Armor"</a>)
+<br><a data-href="Engineering &amp; Technical Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/engineering-&amp;-technical-department.html" class="internal-link" target="_self" rel="noopener nofollow">Engineering &amp; Technical Department</a> (<a data-href="O5-7 &quot;Toolbox&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-7-&quot;toolbox&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-7 "Toolbox"</a>)
+<br><a data-href="Business &amp; Finance Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/business-&amp;-finance-department.html" class="internal-link" target="_self" rel="noopener nofollow">Business &amp; Finance Department</a> (<a data-href="O5-8 &quot;The Prodigy&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-8-&quot;the-prodigy&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-8 "The Prodigy"</a>)
+<br><a data-href="Foundation Integration Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/foundation-integration-department.html" class="internal-link" target="_self" rel="noopener nofollow">Foundation Integration Department</a> (<a data-href="O5-9 &quot;The Nosy One&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-9-&quot;the-nosy-one&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-9 "The Nosy One"</a>)
+<br><a data-href="Research &amp; Development Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/research-&amp;-development-department.html" class="internal-link" target="_self" rel="noopener nofollow">Research &amp; Development Department</a> (<a data-href="O5-10 &quot;Intuitiveness&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-10-&quot;intuitiveness&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-10 "Intuitiveness"</a>)
+]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/o5-council.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/O5 Council.md</guid><pubDate>Wed, 20 Nov 2024 10:58:39 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Research &amp; Development Department]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/research-&amp;-development-department.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Research &amp; Development Department.md</guid><pubDate>Wed, 20 Nov 2024 10:59:37 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Scientific Department]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/scientific-department.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Scientific Department.md</guid><pubDate>Wed, 20 Nov 2024 10:59:51 GMT</pubDate></item><item><title><![CDATA[Department Dossier // Security Department]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/security-department.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/Security Department.md</guid><pubDate>Wed, 20 Nov 2024 10:59:46 GMT</pubDate></item><item><title><![CDATA[Department Dossier // The Mobile Task Forces]]></title><description><![CDATA[ 
+ <br><br><br><br>The Mobile Task Forces are groups of extremely versatile combative and non-combative personnel. Each task force specializes in one thing, and is able to perform tasks related to said thing with remarkable efficiency. <br><br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/the-mobile-task-forces.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Departments &amp; Divisions/The Mobile Task Forces.md</guid><pubDate>Wed, 20 Nov 2024 20:30:59 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Informational Clearance Level 1 - Internal Clearance]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-1-internal-clearance.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 1 - Internal Clearance.md</guid><pubDate>Mon, 14 Oct 2024 20:40:47 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Informational Clearance Level 2 - Secret Clearance]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-2-secret-clearance.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 2 - Secret Clearance.md</guid><pubDate>Mon, 14 Oct 2024 20:40:59 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Informational Clearance Level 3 - Classified Clearance]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-3-classified-clearance.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 3 - Classified Clearance.md</guid><pubDate>Mon, 14 Oct 2024 20:41:05 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Informational Clearance Level 4 - Restricted Clearance]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-4-restricted-clearance.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 4 - Restricted Clearance.md</guid><pubDate>Mon, 14 Oct 2024 20:41:11 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Informational Clearance Level 5 - Redacted Clearance]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/informational-clearance-levels/level-5-redacted-clearance.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Informational Clearance Levels/Level 5 - Redacted Clearance.md</guid><pubDate>Mon, 14 Oct 2024 20:41:19 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-1 "The Watcher"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-1-&quot;the-watcher&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-1 &quot;The Watcher&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:38 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-2 "Knight"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-2-&quot;knight&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-2 &quot;Knight&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:40 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-3 "The Curious Cat"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-3-&quot;the-curious-cat&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-3 &quot;The Curious Cat&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:41 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-4 "Yin-yang"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-4-&quot;yin-yang&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-4 &quot;Yin-yang&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:42 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-5 "Healing Hands"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-5-&quot;healing-hands&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-5 &quot;Healing Hands&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:43 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-6 "Shining Armor"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-6-&quot;shining-armor&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-6 &quot;Shining Armor&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:44 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-7 "Toolbox"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-7-&quot;toolbox&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-7 &quot;Toolbox&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:45 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-8 "The Prodigy"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-8-&quot;the-prodigy&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-8 &quot;The Prodigy&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:47 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-9 "The Nosy One"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-9-&quot;the-nosy-one&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-9 &quot;The Nosy One&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:49 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // O5-10 "Intuitiveness"]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-10-&quot;intuitiveness&quot;.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/O5 Councilmen/O5-10 &quot;Intuitiveness&quot;.md</guid><pubDate>Wed, 20 Nov 2024 11:02:50 GMT</pubDate></item><item><title><![CDATA[Personnel Dossier // The Administrator]]></title><description><![CDATA[ 
+ <br><br><br><br>The Administrator is the primary governing unit of The Foundation. It is the lead body of the <a data-href="O5 Council" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/o5-council.html" class="internal-link" target="_self" rel="noopener nofollow">O5 Council</a> and all proposals made by the O5 Council are vetted and approved by The Administrator. The Administrator cannot make decisions on its own. Instead, The Administrator is the final vote when unanimous decisions cannot be made by the O5 council, acting as a tiebreaker. <br>]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/the-administrator.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/People of The Foundation/The Administrator.md</guid><pubDate>Wed, 20 Nov 2024 11:02:23 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // Role Eligibility &amp; Clearance Levels]]></title><description><![CDATA[ 
+ <br><br><br><br>Maintaining secrecy and security is a vital part of The Foundation's operations.]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/role-eligibility-&amp;-clearance-levels.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/Role Eligibility &amp; Clearance Levels.md</guid><pubDate>Wed, 20 Nov 2024 11:13:27 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // The Foundation Departments]]></title><description><![CDATA[ 
+ <br><br><br><br>The Foundation utilizes its different departments for different reasons. However, the departments work together ultimately to maintain the <a data-tooltip-position="top" aria-label="The Foundation > The S.C.P. triad" data-href="The Foundation#The S.C.P. triad" href="the-foundation/the-foundation.html#The_S.C.P._triad" class="internal-link" target="_self" rel="noopener nofollow">S.C.P. Triad</a> and to ensure the smooth execution of <a data-tooltip-position="top" aria-label="The Secure Contain Protect Procedure" data-href="The Secure Contain Protect Procedure" href="the-foundation/library-&amp;-archives/policy-&amp;-procedures/the-secure-contain-protect-procedure.html" class="internal-link" target="_self" rel="noopener nofollow">the Secure Contain Protect procedures</a>. Each department is just as important as the next (and yes, janitors matter just as much as The Administrator here at The Foundation!).  ]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/the-departments-of-the-foundation.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/The Departments of The Foundation.md</guid><pubDate>Wed, 20 Nov 2024 10:54:11 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // The People of The Foundation]]></title><description><![CDATA[ 
+ <br><br><br><br>The Foundation employs a wide variety of people from places across the globe. Some of The Foundation's top scientists were Harvard graduates, and most of the Mobile Task Forces are filled with members who have graduated from west point, and were on their way to become the next five-star generals. ]]></description><link>the-foundation/structure,-clearance,-and-hierarchy/the-people-of-the-foundation.html</link><guid isPermaLink="false">The Foundation/Structure, Clearance, and Hierarchy/The People of The Foundation.md</guid><pubDate>Wed, 20 Nov 2024 10:52:58 GMT</pubDate></item><item><title><![CDATA[Foundation Access Terminal // !Ext. User! // The Foundation Homepage]]></title><description><![CDATA[ 
+ <br><br><br><br>The Foundation, colloquially known as The S.C.P. Foundation, is the covert NGO that is tasked with the goal of securing, containing, and protecting anomalies across the world. It does this through a three-pronged approach known as the <a data-tooltip-position="top" aria-label="The S.C.P. triad" data-href="#The S.C.P. triad" href="about:blank#The_S.C.P._triad" class="internal-link" target="_self" rel="noopener nofollow">S.C.P. triad</a>. By practicing this methodology, The Foundation ensures that the public is safe from threats beyond understanding.<br><br>To better understand The Foundation of today, it is important to look at The Foundation of the past. The Foundation started as a goal driven idea that humanity doesn't have to live in fear of the anomalous, but instead live in peace under the assumption that the anomalous doesn't exist. The concept that the anomalous exists in the dark means that humanity can live in the light, and The Foundation is how that dynamic can exist. To understand the past of The Foundation is to understand <a data-tooltip-position="top" aria-label="The Administrator" data-href="The Administrator" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/the-administrator.html" class="internal-link" target="_self" rel="noopener nofollow">The Administrator</a>. <br><br>The Administrator is the ultimate governing unit of The Foundation, and its mere existence is debated in even the highest ranks of The Foundation. Rumored to be many things, there are a few truths for the Administrator, at least we think:<br>
+<br>The Administrator is not a typical conscious entity; This means it may not even be human
+<br>The Administrator travels a lot, it is never in the same place for more than 12 hours
+<br>Anyone who comes in contact with the Administrator directly is administered contextual amnestics therapy after the interaction or is terminated
+<br>The Administrator prefers to deliver information through proxies, I.e passing letters, messages, or rarely digital media through the O5 council as its preferred proxy
+<br>The Administrator is barred from authoring any official Foundation content. This was decided by the O5 council in conjunction with the Administrator shortly after the formation of the first mobile task force
+<br>The Administrator leaves its subjects feeling at ease, but with a persistent feeling of subliminal dread after any interactions with others, even after CAT is administered 
+<br>The Administrator isn't an... <a data-tooltip-position="top" aria-label="Contextual Amnestics Policy" data-href="Contextual Amnestics Policy" href="the-foundation/library-&amp;-archives/policy-&amp;-procedures/contextual-amnestics-policy.html" class="internal-link" target="_self" rel="noopener nofollow">anomaly</a>?
+<br><br>An anomaly is defined by The Foundation as: "An object, entity, concept, or idea that exerts non-traditional effects on its environment either directly or indirectly." The Foundation works to ultimately protect the status quo from these anomalies. The status quo is akin to the peace of the universe. If the status quo is disturbed, The Foundation believes that the cause must be contained to prevent future disruptions. <br><br>The three pillars of The Foundation are:<br>
+<br>Security
+
+<br>To Secure anomalies that pose a threat to the status quo
+
+
+<br>Containment
+
+<br>To Contain anomalies in appropriate locations as to prevent future disruption to the status quo
+
+
+<br>Protection
+
+<br>To protect the status quo from the anomalies indefinitely
+
+
+<br>These pillars exist in three states, with the third already defined above. The pillars exist as principals, values, and most importantly, goals. <br>Note
+This is elaborated on further in the S.C.P. triad portion of the <a data-tooltip-position="top" aria-label="The Foundation/Library &amp; Archives/Handbooks, Guides, &amp; References/Untitled" data-href="The Foundation/Library &amp; Archives/Handbooks, Guides, &amp; References/Untitled" href="the-foundation/library-&amp;-archives/handbooks,-guides,-&amp;-references/untitled.html" class="internal-link" target="_self" rel="noopener nofollow">Foundation Employee Handbook</a>. 
+<br><br>The process of securing, containing, and protecting an anomaly sounds simple at first, but in actuality, is just as complex as some of the anomalies The Foundation works with. The process in its simplest form can be broken down into these seven steps.<br>
+<br>An anomaly is identified out in the wild
+<br>An anomaly is verified to be anomalous
+<br>Current disruption caused by the anomaly is assessed while a specialized team known as a Mobile Task Force is assembled and dispatched to stake out the anomaly
+
+<br>At this point, the anomaly's initial containment needs are unknown, and the task force assigned is responsible for compiling the initial encounter report
+<br>Anyone who has had contact with the anomaly is either administered contextual amnestics therapy, or is terminated. CAT is attempted first, with termination having other difficulties associated with it
+
+
+<br>Said specialized team is either assigned for initial containment, merged or appended with another task force and its members, or reassigned entirely
+
+<br>At this point, the anomaly's initial containment needs are vaguely understood, so an initial containment attempt can happen at this point. There has to be a delicate balance between how long the task force waits to perform its initial containment attempt
+<br>If containment is successful, the flow continues, if it isn't, the task force must reattempt their containment attempt up to 3 times maximum, or consider alternative containment methods
+
+
+<br>The anomaly is housed at a temporary containment facility, typically the nearest Alpha level site, and research begins immediately on the anomaly
+
+<br>Research determines its specialized containment procedures, and whether the anomaly is appropriate for the current site (typically anomalies are relocated after the first 3-5 research sessions)
+
+
+<br>The anomaly either is assigned a permanent containment location, or one is constructed for it if the existing locations are inadequate. An SCP file is created for it which details its description, history, specialized containment procedures, and any tests, incidents, or other relevant info as appendices to said file
+<br>Regular assessment and testing must be performed to ensure the anomaly remains in its most dormant state, and that none of its anomalous properties have changed. Either way, any tests conducted must be appended to the anomalies SCP file
+<br>Note
+This is elaborated on further in the <a data-tooltip-position="top" aria-label="The Secure Contain Protect Procedure" data-href="The Secure Contain Protect Procedure" href="the-foundation/library-&amp;-archives/policy-&amp;-procedures/the-secure-contain-protect-procedure.html" class="internal-link" target="_self" rel="noopener nofollow">Secure Contain and Protect Procedure</a>
+<br><br>The Foundation has many homes, and these places are known as the Foundation sites or Foundation outposts. They serve many purposes for the foundation and each location is typically unique.<br><br>Foundation Sites are the primary containment locations for anomalous entities, housing for Foundation personnel, and some are equipped to house <a data-tooltip-position="top" aria-label="Disposable Class Personnel" data-href="Disposable Class Personnel" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/disposable-class/disposable-class-personnel.html" class="internal-link" target="_self" rel="noopener nofollow">disposable class personnel</a>. They are indexed through a basic classification system which designates their location, series, and identification number. <br><br>Foundation outposts are locations typically overseen by either a <a data-tooltip-position="top" aria-label="The Mobile Task Forces" data-href="The Mobile Task Forces" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/the-mobile-task-forces.html" class="internal-link" target="_self" rel="noopener nofollow">Mobile Task Force</a> or a division of the <a data-tooltip-position="top" aria-label="Foundation Integration Department" data-href="Foundation Integration Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/foundation-integration-department.html" class="internal-link" target="_self" rel="noopener nofollow">integration department</a>. They do not contain any anomalous entities and most are anonymized through the use of fronts and shells. They are used for reconnaissance and forward operation purposes. <br>Note
+See more about foundation sites and outposts <a data-tooltip-position="top" aria-label="Foundation Infrastructure" data-href="Foundation Infrastructure" href="the-foundation/locations-&amp;-sites/foundation-infrastructure.html" class="internal-link" target="_self" rel="noopener nofollow">here</a>. 
+<br><br>The Foundation is just as much as a living entity as any other human, and it comes with many arms and legs. These arms and legs are the multiple departments within The Foundation. They serve many purposes for The Foundation and each has a specialized focus. The departments found in The Foundation and the corresponding department head are listed below:<br>
+<br><a data-href="O5 Council" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/o5-council.html" class="internal-link" target="_self" rel="noopener nofollow">O5 Council</a> (<a data-href="The Administrator" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/the-administrator.html" class="internal-link" target="_self" rel="noopener nofollow">The Administrator</a>)
+<br><a data-href="Internal Affairs Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/internal-affairs-department.html" class="internal-link" target="_self" rel="noopener nofollow">Internal Affairs Department</a> (<a data-href="O5-1 &quot;The Watcher&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-1-&quot;the-watcher&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-1 "The Watcher"</a>)
+<br><a data-href="The Mobile Task Forces" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/the-mobile-task-forces.html" class="internal-link" target="_self" rel="noopener nofollow">The Mobile Task Forces</a> (<a data-href="O5-2 &quot;Knight&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-2-&quot;knight&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-2 "Knight"</a>)
+<br><a data-href="Scientific Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/scientific-department.html" class="internal-link" target="_self" rel="noopener nofollow">Scientific Department</a> (<a data-tooltip-position="top" aria-label="O5-3 &quot;The Curious Cat&quot;" data-href="O5-3 &quot;The Curious Cat&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-3-&quot;the-curious-cat&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-3 "The Curious Cat"</a>)
+<br><a data-href="Ethics Committee" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/ethics-committee.html" class="internal-link" target="_self" rel="noopener nofollow">Ethics Committee</a> (<a data-href="O5-4 &quot;Yin-yang&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-4-&quot;yin-yang&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-4 "Yin-yang"</a>)
+<br><a data-href="Medical Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/medical-department.html" class="internal-link" target="_self" rel="noopener nofollow">Medical Department</a> (<a data-href="O5-5 &quot;Healing Hands&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-5-&quot;healing-hands&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-5 "Healing Hands"</a>)
+<br><a data-href="Security Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/security-department.html" class="internal-link" target="_self" rel="noopener nofollow">Security Department</a> (<a data-href="O5-6 &quot;Shining Armor&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-6-&quot;shining-armor&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-6 "Shining Armor"</a>)
+<br><a data-href="Engineering &amp; Technical Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/engineering-&amp;-technical-department.html" class="internal-link" target="_self" rel="noopener nofollow">Engineering &amp; Technical Department</a> (<a data-href="O5-7 &quot;Toolbox&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-7-&quot;toolbox&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-7 "Toolbox"</a>)
+<br><a data-href="Business &amp; Finance Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/business-&amp;-finance-department.html" class="internal-link" target="_self" rel="noopener nofollow">Business &amp; Finance Department</a> (<a data-href="O5-8 &quot;The Prodigy&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-8-&quot;the-prodigy&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-8 "The Prodigy"</a>)
+<br><a data-href="Foundation Integration Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/foundation-integration-department.html" class="internal-link" target="_self" rel="noopener nofollow">Foundation Integration Department</a> (<a data-href="O5-9 &quot;The Nosy One&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-9-&quot;the-nosy-one&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-9 "The Nosy One"</a>)
+<br><a data-href="Research &amp; Development Department" href="the-foundation/structure,-clearance,-and-hierarchy/departments-&amp;-divisions/research-&amp;-development-department.html" class="internal-link" target="_self" rel="noopener nofollow">Research &amp; Development Department</a> (<a data-href="O5-10 &quot;Intuitiveness&quot;" href="the-foundation/structure,-clearance,-and-hierarchy/people-of-the-foundation/o5-councilmen/o5-10-&quot;intuitiveness&quot;.html" class="internal-link" target="_self" rel="noopener nofollow">O5-10 "Intuitiveness"</a>)
+<br>Note
+To see the divisions and groups within each department and an overview of that departments operations, checkout each department's page.<br>
+To see what each department does in brief, checkout <a data-tooltip-position="top" aria-label="The Departments of The Foundation" data-href="The Departments of The Foundation" href="the-foundation/structure,-clearance,-and-hierarchy/the-departments-of-the-foundation.html" class="internal-link" target="_self" rel="noopener nofollow">the departments overview</a>.
+<br><br>The Foundation has a dark future ahead of it. Not dark in the sense that the future for The Foundation is grim, but that The Foundation has only scratched the surface of an endless expanse of anomalous entities, objects, and concepts. The Foundation is believed to have uncovered only 5-7% of the anomalies that exist in the universe. For The Foundation to continue to secure, contain, and protect, it must remain vigilant against the forces that work against it, both anomalous and normal alike.]]></description><link>the-foundation/the-foundation.html</link><guid isPermaLink="false">The Foundation/The Foundation.md</guid><pubDate>Wed, 20 Nov 2024 11:08:06 GMT</pubDate></item><item><title><![CDATA[Welcome to the SCP-NGU]]></title><description><![CDATA[ 
+ <br><br>Note
+This is a continuation of a prior project, the original SCP-NG Universe. See more on this <a data-tooltip-position="top" aria-label="Disclaimer" data-href="Disclaimer" href="metabuilding/disclaimer.html" class="internal-link" target="_self" rel="noopener nofollow">here</a>.
+<br><br>This is the homepage for the SCP-NGU, a massive passion project I've been working on for about a year now. It is an independent canon of the SCP universe based off of the general theme of the SCP universe. The difference is that it is a singular canon, not a shared one. This means that there are some things which are not flexible, such as task forces. In the SCP-NGU, there is a set amount of task forces and none can be added or removed freely without consequence. It is not meant to be modular, but instead serve as a base on which other creative works can be formed on top of. <br>The vault is organized in a casual way with a new employee feeling, but with the same level of detail you would expect in the places it would be appropriate in such as internal policies. You'll feel as though your an existing employee learning about The Foundation. <br>Note
+Prior experience with the SCP universe is not required, as the content in this vault is technically original content, and the content is not a continuation, but a singular canonical rewrite of the existing multi-canon universe.
+<br>Feel free to explore this vault at your own pace, or follow one of the links below to get you into the action quick:<br>]]></description><link>the-scp-next-generation-universe.html</link><guid isPermaLink="false">The SCP-Next-Generation Universe.md</guid><pubDate>Thu, 21 Nov 2024 10:43:10 GMT</pubDate></item></channel></rss>
