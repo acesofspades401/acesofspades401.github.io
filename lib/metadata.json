@@ -597,7 +597,7 @@
     "The SCP-Next-Generation Universe.md": {
       "modifiedTime": 1732198693383,
       "sourceSize": 2650,
-      "exportedPath": "the-scp-next-generation-universe.html",
+      "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
